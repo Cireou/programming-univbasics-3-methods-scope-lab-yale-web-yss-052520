@@ -8,6 +8,8 @@ def toadstool
   puts status
 end
 
-def all_phrases(phrase) 
-  puts phrase
+def all_phrases
+  mario
+  toadstool
+  puts 
 end
